@@ -17,7 +17,7 @@ DESTDIR='databases'
 BUCKET='mmd-backups'
 
 #### END CONFIGURATION ####
-#http://stackoverflow.com/questions/2424921/python-vs-bash-in-which-kind-of-tasks-each-one-outruns-the-other-performance-w
+
 
 mkdir -p $backup_folder
 
